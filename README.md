@@ -1,6 +1,16 @@
-To use this application, 
+# movie-app-mern
+Mern stack project.
+<br />
+<br />
+Demo Link: https://movie-app-mern1.herokuapp.com/
+<br />
+<br />
+Api: https://developers.themoviedb.org/
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+# To use this application, 
+<br />
+<br />
+1. Put mongoDB uri into client/config/dev.js file. 
+2. Type  " npm install " inside the root directory.  ( Download Server Dependencies ) 
+3. Type " npm install " inside the client directory. ( Download Front-end Dependencies )
+4. Write " npm run dev " to run project.
