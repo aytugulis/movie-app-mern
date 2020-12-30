@@ -1,0 +1,15 @@
+.main{
+    width: 85%;
+    margin: 1rem auto;
+}
+.mainFavorite{
+    display:flex;
+    justify-content: flex-end;
+}
+.toggleActor{
+    display:flex;
+    justify-content: center;
+}
+.favorite-badge{
+    margin-left: 4px;
+}
