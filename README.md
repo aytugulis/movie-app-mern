@@ -2,7 +2,7 @@
 Mern stack project.
 <br />
 <br />
-Demo Link: https://movie-app-mern1.herokuapp.com/
+Demo Link: https://movie-app-mern-1.herokuapp.com/
 <br />
 <br />
 Api: https://developers.themoviedb.org/
